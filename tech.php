@@ -53,21 +53,13 @@
 							</br>
 							<li>Heroku автоматически выгружает код из master ветки GitHub в свой master блок.</br>	
 							Результат:</br>							
-							</br><a href="https://dev-.herokuapp.com/" target="_blank">https://dev-.herokuapp.com/</a></li>
+							<a href="https://dev-.herokuapp.com/" target="_blank">https://dev-.herokuapp.com/</a></li>
+							</br>
+							<li>Profit.</li>
 						</ol>
 					</blockquote>	
 					<hr>	
-
-					<h3>Параметры сервера</h3>
-					<table class="table table-striped" cellpadding="10" border="1" width="500">
-						<?php phpinfo(); ?>
-						<tbody>
-							<tr>
-								<td wigth="500">Mark</td>
-							</tr>
-						</tbody>
-					</table>					
-						
+	
 			
 			<div class="footer">
 				&copy; Copyright 2018
