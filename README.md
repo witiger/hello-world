@@ -1,9 +1,19 @@
 # hello-world
-First repository
 
-21.03.2018 index.php created on localhost
-21.03.2018 README edit on localhost
-21.03.2018 README edit on GitHub
+[Hello-world repository] (https://github.com/witiger/hello-world) is a basic GitHub test.
+
+## File structure
+
+	assets/
+		css/
+			styles.css
+		img/
+			apple-touch-icon.png
+	favicon.ico
+	index.php
+	readme.md
+
+[Hello-world repository] (https://github.com/witiger/hello-world) was created by [Ilya Mikhalev](	https://www.facebook.com/ilya.mikhalev/). Copyright 2018 Ilya Mikhalev.
 
 
 
