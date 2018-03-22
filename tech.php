@@ -38,7 +38,8 @@
 					
 					<h3>Процесс контроля версий</h3>
 					<blockquote>
-					<p>Прототип глобального IT сервиса для:</p>					
+					<p><code>localhost -> GitHub dev -> Heroku dev -> www (testing)</br>
+					GitHub dev -> Merge pull request -> GitHub master -> Heroku Master -> www (production)</code></p>					
 						<ol>
 							<li>Код пишется на localhost. Затем коммитится на локальный git и дальше в dev ветку GitHub в облаке.</br>
 							Результат:</br> 
