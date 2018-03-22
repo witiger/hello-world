@@ -11,6 +11,7 @@
 			apple-touch-icon.png
 	favicon.ico
 	index.php
+	tech.php	
 	readme.md
 
 [Hello-world repository] (https://github.com/witiger/hello-world) was created by [Ilya Mikhalev](	https://www.facebook.com/ilya.mikhalev/). Copyright 2018 Ilya Mikhalev.
