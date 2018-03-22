@@ -53,7 +53,7 @@
 							</br>
 							<li>Heroku автоматически выгружает код из master ветки GitHub в свой master блок.</br>	
 							Результат:</br>							
-							<a href="https://dev-.herokuapp.com/" target="_blank">https://dev-.herokuapp.com/</a></li>
+							<a href="https://master-.herokuapp.com/" target="_blank">https://master-.herokuapp.com/</a></li>
 							</br>
 							<li>Profit.</li>
 						</ol>
