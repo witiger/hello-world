@@ -60,7 +60,7 @@
 
 					<h3>Параметры сервера</h3>
 					
-						<p><?php phpinfo(); ?></p>
+						<?php phpinfo(); ?>
 			
 			<div class="footer">
 				&copy; Copyright 2018
