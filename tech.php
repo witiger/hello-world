@@ -30,7 +30,7 @@
 				<div class="main">
 
 					<!-- Heading -->				
-					<h1>PHP || Heroku & GitHub Test</h1>
+					<h1>PHP || Heroku & GitHub Infrastructure</h1>
 					<hr>
 
 					<p><img class="img-responsive" src="assets/img/heroku.jpg" alt=""></p>
