@@ -47,13 +47,13 @@
 							</br>
 							<li>Heroku автоматически выгружает код из dev ветки GitHub в свой dev блок.</br>
 							Результат:</br>
-							<a href="https://dev-.herokuapp.com/" target="_blank">https://dev-.herokuapp.com/</a></li>
+							<a href="https://bimdev1.herokuapp.com/" target="_blank">https://bimdev1.herokuapp.com/</a></li>
 							</br>
 							<li>Объединяем dev и master ветки на GitHub.</li>
 							</br>
 							<li>Heroku автоматически выгружает код из master ветки GitHub в свой master блок.</br>	
 							Результат:</br>							
-							<a href="https://master-.herokuapp.com/" target="_blank">https://master-.herokuapp.com/</a></li>
+							<a href="https://bimmst1.herokuapp.com/" target="_blank">https://bimmst1.herokuapp.com/</a></li>
 							</br>
 							<li>Profit.</li>
 						</ol>
